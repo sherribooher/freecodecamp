@@ -20,7 +20,7 @@
     "remark-rehype": "^3.0.2",
     "remark-stringify": "^6.0.4",
     "to-vfile": "^6.1.0",
-    "unified": "^7.1.0",
+    "unified": "^9.2.0",
     "unist-util-visit": "^1.4.1"
   }
 }
